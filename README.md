@@ -8,16 +8,9 @@ This project applies modern **causal inference methods** to improve A/B test ana
 
 * [Technologies Used](#technologies-used)
 * [Requirements](#requirements)
-* [Installation Instructions](#installation-instructions)
 * [Usage Instructions](#usage-instructions)
 * [Documentation](#documentation)
-* [Visuals](#visuals)
 * [Support Information](#support-information)
-* [Project Roadmap](#project-roadmap)
-* [Project Status](#project-status)
-* [Contribution Guidelines](#contribution-guidelines)
-* [License](#license)
-* [Useful Links](#useful-links)
 
 ## Technologies Used
 
@@ -30,7 +23,6 @@ This project applies modern **causal inference methods** to improve A/B test ana
 
 * Python== 3.12.9
 * numpy==2.2.5
-
 
 ## Usage Instructions
 
